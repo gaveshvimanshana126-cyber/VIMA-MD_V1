@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `VIMA-MD connected ✅\n\nPREFIX: ${prefix}`;
       await vima.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/VIMA-MD/VIMA-MD/blob/main/images/VIMA-MD.png?raw=true` },
+        image: { url: `https://raw.githubusercontent.com/gaveshvimanshana126-cyber/VIMA-MD_V1/refs/heads/main/Image/20260218_134730.jpg` },
         caption: up
       });
 
